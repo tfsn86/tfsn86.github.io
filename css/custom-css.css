@@ -1,0 +1,7 @@
+.scale-img {
+	max-width: 20%;
+}
+
+.border-top {
+	border-top: dotted 1px black !important;
+}
