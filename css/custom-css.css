@@ -5,3 +5,7 @@
 .border-top {
 	border-top: dotted 1px black !important;
 }
+
+.color-change {
+	color: #b6382a;
+}
